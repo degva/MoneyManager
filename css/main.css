@@ -25,7 +25,7 @@ body, html {
 #sidebar {
 	left: -240px;
 	position: absolute;
-	background: #df314d;
+	background: #135b93;
 	width: 240px;
 	height: 100%;
 	box-sizing: border-box;
@@ -49,7 +49,7 @@ body, html {
 	color: white;
 	text-decoration: none;
 	display: block;
-	border-bottom: 1px solid #C9223D;
+	border-bottom: 1px solid #053D68;
 	-webkit-transition: background 0.3s ease-in-out;
 	-moz-transition: background 0.3s ease-in-out;
 	-ms-transition: background 0.3s ease-in-out;
@@ -58,7 +58,7 @@ body, html {
 }
 
 #sidebar ul li:hover a {
-	background: #C9233D;
+	background: #053D68;
 }
 
 .main {
@@ -87,7 +87,7 @@ body, html {
 }
 
 .main #sidebar-toggle {
-	background: #DF314D;
+	background: #135B93;
 	border-radius: 3px;
 	display: block;
 	position: relative;
